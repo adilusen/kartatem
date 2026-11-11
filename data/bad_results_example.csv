@@ -1,0 +1,13 @@
+student_id,class_id,textbook,topic_id,stage,test_id,score,max_score
+S01,K01,Учебник А,T1,pre,M6-T1-F1,8,20
+S01,K01,Учебник А,T1,post,M6-T1-F1,15,20
+S02,K01,Учебник А,T1,pre,M6-T1-F1,10,20
+S02,K01,Учебник А,T1,post,M6-T1-F1,abc,20
+S03,K01,Учебник А,T1,pre,M6-T1-F1,12,0
+S03,K01,Учебник А,T1,post,M6-T1-F1,25,20
+,K01,Учебник А,T1,pre,M6-T1-F1,9,20
+S04,K01,Учебник А,T1,midterm,M6-T1-F1,11,20
+S04,K01,Учебник А,T9,post,M6-T9-F1,14,20
+S05,K02,Учебник Б,T1,pre,M6-T1-F1,13,20
+S05,K02,Учебник Б,T1,pre,M6-T1-F1,17,20
+S05,K02,Учебник Б,T1,post,M6-T1-F1,,20

@@ -1,0 +1,25 @@
+Это копия файла .streamlit/config.toml (тема оформления Өлшем).
+
+Если при загрузке на GitHub скрытая папка .streamlit не появилась в репозитории:
+1. Загрузите основные файлы проекта.
+2. На странице репозитория нажмите «Add file» → «Create new file».
+3. В поле имени файла введите ровно:  .streamlit/config.toml
+   (символ «/» создаёт папку .streamlit).
+4. Вставьте текст между линиями ниже и сохраните (Commit changes).
+Корневой файл config.toml без папки .streamlit не работает как настройка темы.
+
+--------------------------------------------------------------------
+[theme]
+base = "light"
+primaryColor = "#2F5BEA"
+backgroundColor = "#F7F8FA"
+secondaryBackgroundColor = "#EEF1F6"
+textColor = "#14213D"
+font = "sans-serif"
+
+[client]
+toolbarMode = "minimal"
+
+[browser]
+gatherUsageStats = false
+--------------------------------------------------------------------

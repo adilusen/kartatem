@@ -1,0 +1,3 @@
+student_id,class_id,textbook,topic_id,stage,test_id,score,max_score
+S01,K01,Учебник 1,T1,pre,TEST-T1-F1,8,20
+S01,K01,Учебник 1,T1,post,TEST-T1-F1,15,20
