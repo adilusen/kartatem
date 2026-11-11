@@ -1,6 +1,6 @@
 # Публикация Өлшем: GitHub → Streamlit Community Cloud
 
-Инструкция для начинающего, Mac. Исходники v4-fixed уже опубликованы в `adilusen/kartatem` 11 ноября 2026 года. Публичное приложение считается проверенным только после шага 4. Проверенная ссылка добавляется в README.
+Исходники v4-fixed и материалы защиты опубликованы в `adilusen/kartatem` 11 ноября 2026 года. Приложение развёрнуто на Python 3.13: https://olshem-edtech.streamlit.app. Публичная страница и демо открыты без авторизации. Ниже сохранены инструкция повторного развёртывания и сценарий полной проверки.
 
 Источники (проверены при подготовке):
 - [Deploy your app on Community Cloud](https://docs.streamlit.io/deploy/streamlit-community-cloud/deploy-your-app/deploy)

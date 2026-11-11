@@ -8,6 +8,8 @@
 
 Репозиторий: https://github.com/adilusen/kartatem
 
+MVP: https://olshem-edtech.streamlit.app
+
 Презентация: presentation/olshem_pitch_kk.pdf
 
 ## Нақты формадағы міндетті өрістер
